@@ -5,7 +5,7 @@
 🏫 Kyung HEE University
 
 <img src="https://img.shields.io/badge/qjatjr29@khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/beomsic-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>https://www.instagram.com/beomsic/</a>
+<img src="https://img.shields.io/badge/beomsic-E4405F?style=flat-square&logo=Instagram&logoColor=white&url=https://www.instagram.com/beomsic/"/></a>
 
 👋 Hello, I am a student at Kyunghee University.  
 I am studying spring to become a server developer. ✏️
