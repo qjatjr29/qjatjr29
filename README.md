@@ -29,7 +29,7 @@
 
 ### 📔 Github stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qjatjr29s&show_icons=true&theme=solarized-light)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qjatjr29&show_icons=true&theme=solarized-light)
 
 <!--
 **qjatjr29/qjatjr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
