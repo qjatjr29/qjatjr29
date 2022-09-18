@@ -31,8 +31,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&&logo=Postman&logoColor=white"/></a>
 
 ## 🎨 SNS & Blog 🎨
-<img src="https://img.shields.io/badge/Beomsic-E4405F?style=for-the-badge&&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/beomsic/"><img src="https://img.shields.io/badge/Beomsic-E4405F?style=for-the-badge&&logo=Instagram&logoColor=white"/></a>
+<a href="https://beomsic.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&&logo=Tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/hhqjatjr@gmail.com-EA4335?style=for-the-badge&&logo=Gmail&logoColor=white"/></a>
 
 </div>
