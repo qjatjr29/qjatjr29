@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 💻 Tech Stack
+## 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -22,12 +22,18 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&&logo=CSS3&logoColor=white"/></a>
 
-## 🗂 Cowork Tools
+## ⚒ Cowork Tools ⚒
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&&logo=Postman&logoColor=white"/></a>
+
+## 🎨 SNS & Blog 🎨
+<img src="https://img.shields.io/badge/Beomsic-E4405F?style=for-the-badge&&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&&logo=Tistory&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/hhqjatjr@gmail.com-EA4335?style=for-the-badge&&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
