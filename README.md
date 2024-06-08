@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&&logo=Amazon&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&&logo=apachekafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&&logo=DOCKER&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&&logo=JavaScript&logoColor=white"/></a>
@@ -38,15 +40,16 @@
 </div>
 
 ## 💡 Projects
-- [이곳저곳](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE) (2022/07 ~ 2022/08) [사이트 클릭](https://team-09-p2p-fe.vercel.app/)
-- [에어비앤비 클론](https://github.com/prgrms-be-devcourse/BE-02-Airbnb) (2022/06 ~ 2022/07)
-- [UrlShortener](https://github.com/qjatjr29/springboot-url-shortener) (2022/06)
-- [DCloud](https://github.com/cloud-computing-dcloud/spring-server) (2022/05 ~ 2022/06)
-- [Beomflix](https://github.com/qjatjr29/beomflix) (2021/04) [사이트 클릭](https://nifty-sammet-ddd19e.netlify.app/)
+#### 🌠 [인스타그램 클론](https://github.com/qjatjr29/Instagram-clone) (2024/02 ~ 2024/05)
+#### 💶 [뱅킹서버](https://github.com/qjatjr29/2023-banking-challenge) (2023/02 ~ 2023/03)
+#### 🛩 [이곳저곳](https://github.com/prgrms-web-devcourse/Team_09_p2p_BE) (2022/07 ~ 2022/08) [사이트 클릭](https://team-09-p2p-fe.vercel.app/)
+#### 🏠 [에어비앤비 클론](https://github.com/prgrms-be-devcourse/BE-02-Airbnb) (2022/06 ~ 2022/07)
+#### 🖥 [UrlShortener](https://github.com/qjatjr29/springboot-url-shortener) (2022/06)
+#### 📺 [Beomflix](https://github.com/qjatjr29/beomflix) (2021/04) [사이트 클릭](https://nifty-sammet-ddd19e.netlify.app/)
 
 ##  ⭐️ Activies
-- AUSG (2022/07 ~)
-- 프로그래머스 백엔드 데브코스(2022/03 ~ 2022/08)
+#### AUSG (2022/07 ~)
+#### 프로그래머스 백엔드 데브코스(2022/03 ~ 2022/08)
 
 
 ## 📔 Github stats
