@@ -39,6 +39,9 @@
 
 </div>
 
+## 😎 Experience
+#### 🥕 [당근마켓 데이터가치화팀 SoftwareEngineer, Backend] (2024/07 ~ 2024/10)
+
 ## 💡 Projects
 #### 🌠 [인스타그램 클론](https://github.com/qjatjr29/Instagram-clone) (2024/02 ~ 2024/05)
 #### 💶 [뱅킹서버](https://github.com/qjatjr29/2023-banking-challenge) (2023/02 ~ 2023/03)
