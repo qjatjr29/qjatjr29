@@ -45,8 +45,9 @@
 ### 🔗 Links
 <a href="https://www.instagram.com/beomsic/"><img src="https://img.shields.io/badge/Beomsic-E4405F?style=for-the-badge&&logo=Instagram&logoColor=white"/></a>
 <a href="https://beomsic.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&&logo=Tistory&logoColor=white"/></a>
-<a href="https://portfolio-taupe-delta-50.vercel.app/"><img src="https://img.shields.io/badge/portfolio-34A7C1?style=for-the-badge&&logo=protodotio&logoColor=white"/></a>
+<a href="https://www.beomlog.site/"><img src="https://img.shields.io/badge/개인블로그-09B3AF?style=for-the-badge&&logo=storyblok&logoColor=white"/></a>
 <a href="hhqjatjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://portfolio-taupe-delta-50.vercel.app/"><img src="https://img.shields.io/badge/portfolio-34A7C1?style=for-the-badge&&logo=protodotio&logoColor=white"/></a> -->
 
 </div>
 
